@@ -1,0 +1,15 @@
+
+
+/* Reglas Formulari Accés */
+
+#acces-submit{
+	margin: 0 auto;
+	clear: both;
+	width: 100%;
+}
+
+.acces-alert{
+	clear:both;
+	margin-top: 15px;
+	text-shadow: none;
+}
