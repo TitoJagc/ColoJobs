@@ -36,6 +36,10 @@
 			$this-> mail->Username = 'colojobs@institut.es';// aquest parametres fer-ho amb config.php
 			$this-> mail->Password = 'pass'; // aquest parametres fer-ho amb config.php
 
+			//Configuració del content
+			$this-> mail->isHTML(true);
+			$this-> mail->charset = 'UTF-8';
+
 			
  		}
 
